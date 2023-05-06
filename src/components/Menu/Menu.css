@@ -1,0 +1,48 @@
+.Menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 10vh;
+}
+
+.Conteudo_Menu{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 50%;
+    flex: 1;
+}
+
+
+.Conteudo_Menu ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    padding: 10px 40px ;
+    text-align: center;
+}
+
+.Conteudo_Menu li {
+    text-decoration: none;
+    list-style: none;
+    padding: 10px 10px ;
+}
+.Conteudo_Menu a{
+    text-decoration: none;
+    font-family: "Play", sans-serif;
+    font-size: 15px;
+    color: #fff;
+}
+.Conteudo_Menu a:hover{
+    border-bottom: 2px rgb(2, 6, 221) solid;
+}
+.Conteudo_Menu span{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    border-left: 1px solid  blanchedalmond;
+    align-items: center;
+    padding: 10px 40px ;
+
+}

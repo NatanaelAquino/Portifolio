@@ -1,0 +1,14 @@
+.Card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    border: 1px solid black;
+
+}
+.Card-Content{
+
+    display: flex;
+    align-items: center;
+    padding: 10px 20px ;
+}

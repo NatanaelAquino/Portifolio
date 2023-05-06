@@ -1,0 +1,16 @@
+.Content{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    max-width: 100vw;
+    align-items: center;
+    height: 90vh;
+}
+
+.Title{
+    text-align: center;
+    border: 1px solid black;
+}
+.Img{
+    border: 1px solid black;
+}

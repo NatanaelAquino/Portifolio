@@ -1,0 +1,20 @@
+.ConteudoCard{
+    display: flex;
+    justify-content: center;
+
+}
+.ConteudoCard ul{
+    display: flex;
+    padding: 10px 50px; 
+}
+.ConteudoCard li{
+    padding: 20px 50px ;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.ConteudoCard span{
+    width: 60px;
+    height: 60px ;
+}
+
